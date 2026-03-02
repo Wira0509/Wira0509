@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <br>
 
@@ -71,11 +71,6 @@
 
 ## Stats Github
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
-</picture>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wira0509&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -87,6 +82,14 @@
 <div align="center">
   <img height="200" src="https://media.gettyimages.com/id/2155639368/photo/london-england-nacho-fernandez-of-real-madrid-lifts-the-uefa-champions-league-trophy-after.jpg?s=612x612&w=0&k=20&c=bwHgKnn-rXaoz31zefYfsBGazWVuqi4UIqA4L5IaeYo="  />
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
