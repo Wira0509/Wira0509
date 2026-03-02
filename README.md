@@ -1,15 +1,14 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=220&section=header&text=Wira%20Hari%20Pratama&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descSize=18&descAlignY=55&descColor=a83eb8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:a83eb8&height=220&section=header&text=Wira%20Hari%20Pratama&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffd166"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+Saya+Wira+Hari+Pratama;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%91%8B+Halo!+I'm+Wira+Hari+Pratama;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 
 </div>
 
-## Hi There , I'm Wira Hari Pratama! 
 
 ---
 
@@ -84,17 +83,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wira0509&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wira0509&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
 
 <div align="center">
-  <img height="200" src="https://media.gettyimages.com/id/2155639368/photo/london-england-nacho-fernandez-of-real-madrid-lifts-the-uefa-champions-league-trophy-after.jpg?s=612x612&w=0&k=20&c=bwHgKnn-rXaoz31zefYfsBGazWVuqi4UIqA4L5IaeYo="  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rOXVuajhhdXA3Mzlqd2c4bzYyeG9uZnFoejV1emZtdHg2dHFoYiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pj6kX3c8bRijBrl6yR/giphy.gif"  />
 </div>
 
 ---
+##### My Contrib
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
